@@ -7,19 +7,7 @@
       <div>
         <div class="text-h4">
           <div>
-            My name is Israel Philipe, i am a {{ age }} years old software developer.
-            <br />
-            At the current moment i work with django using the Rest Framework on
-            the backend. <br />
-            However, i dabbled with laravel for a good time and have a good
-            experience with it. <br />
-            When it comes to the frontend side of things i mainly work with
-            vueJS and quasar framework. <br />
-          </div>
-          <div class="q-my-md">
-            Currently im working on the
-            <a href="https://med5.com.br"> MED5</a> project as a fullstack
-            developer and tech leader on a team of 3 (myself included).
+            My name is Israel Philipe, i am a {{ age }} years old software developer. With fullstack and devops experience
           </div>
         </div>
       </div>
@@ -28,7 +16,7 @@
       <div class="text-h5 q-my-lg">
         If you are interested you can contact me using the information bellow.
         <br />
-        Email and whatsapp are my favorite options
+        Email and whatsapp are my favorite options  
       </div>
       <div class="text-h5">
         <div>Email : israelphilipeassuncao@gmail.com</div>

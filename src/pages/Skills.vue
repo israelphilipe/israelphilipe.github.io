@@ -4,8 +4,7 @@
       <div class="q-my-xl">
         <div class="hello text-h2">Skills</div>
         <div class="text-h6 q-ml-sm">
-          So... here are my skills (programming languages, frameworks and
-          tecnologies)
+          Here are my skills (programming languages, frameworks and tecnologies)
         </div>
       </div>
       <div>
@@ -106,6 +105,11 @@ export default defineComponent({
           img: require("assets/laravel.png"),
           level: "good",
         },
+        {
+          name: "NodeJS",
+          img: require("assets/node-logo.jpg"),
+          level: "good",
+        },
       ],
       frontendFrameorks: [
         {
@@ -116,6 +120,11 @@ export default defineComponent({
         {
           name: "Quasar",
           img: require("assets/quasar.svg"),
+          level: "good",
+        },
+        {
+          name: "ReactJS",
+          img: require("assets/react-logo.png"),
           level: "good",
         },
       ],
@@ -145,10 +154,14 @@ export default defineComponent({
           img: require("assets/scrum.svg"),
           level: "good",
         },
+        {
+          name: "Ansible",
+          img: require("assets/ansible-logo.png"),
+          level: "good",
+        },
       ],
     };
   },
 });
 </script>
-<style scoped>
-</style>
+<style scoped></style>
